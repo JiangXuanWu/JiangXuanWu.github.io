@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "dark.min.css",
-	"sourceRoot": "C:/Users/MuXi_Xuan/Documents/Blog/blogTwo",
+	"sourceRoot": "/home/xikexuan/文档/Blog/blogTwo",
 	"sources": [
 		"stdin"
 	],
