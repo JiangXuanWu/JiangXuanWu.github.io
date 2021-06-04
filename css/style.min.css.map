@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "/home/xikexuan/文档/Blog/blogTwo",
+	"sourceRoot": "/home/xikexuan/文档/blog/blogTwo",
 	"sources": [
 		"themes/LoveIt/assets/css/style.scss",
 		"themes/LoveIt/assets/css/_variables.scss",
